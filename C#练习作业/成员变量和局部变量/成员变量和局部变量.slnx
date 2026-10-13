@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="字符串的方法/字符串的方法.csproj" Id="0773f632-b490-4f90-addb-29c03abf38dd" />
+  <Project Path="成员变量和局部变量/成员变量和局部变量.csproj" Id="a460c666-bf89-4e52-858e-e9a3b4816fc0" />
+  <Project Path="游戏聊天过滤器/游戏聊天过滤器.csproj" Id="7155b0ef-18be-49df-8582-7d65558c126f" />
+  <Project Path="用户注册信息与验证/用户注册信息与验证.csproj" Id="446d01e5-7902-463c-858d-4b755f542818" />
+  <Project Path="简易图书馆书架管理/简易图书馆书架管理.csproj" Id="e450656f-a1f4-4d78-a604-7d3bf0ef81e3" />
+  <Project Path="静态类/静态类.csproj" Id="4e7058b4-a3d1-4b27-813b-e8f5b3a9267c" />
+</Solution>

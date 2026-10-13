@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="员工年度薪资与税务计算器/员工年度薪资与税务计算器.csproj" Id="aa36fd1c-469b-4291-a3f7-2fb4d7c5ffb4" />
+  <Project Path="学生成绩统计器111/学生成绩统计器111.csproj" Id="9a55f55b-5a57-4c11-a70c-0375c4bb9950" />
+  <Project Path="数学运算类Math/数学运算类Math.csproj" Id="df62e3ab-32dd-4f5e-9a64-f047b74a6b65" />
+  <Project Path="结构体/结构体.csproj" Id="390d50a8-4682-447f-a73f-2a2bae7fd4a2" />
+</Solution>

@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/解决方案项/">
+    <File Path="../../编程基础知识/_23浅谈浅拷贝和深拷贝/Animals.cs" />
+    <File Path="../../编程基础知识/_23浅谈浅拷贝和深拷贝/Program.cs" />
+  </Folder>
+  <Project Path="../../编程基础知识/_22日期类DateTime/_22日期类DateTime.csproj" Id="0d334d26-814d-4176-9b2d-7846c94e42aa" />
+  <Project Path="日期/日期.csproj" Id="743ce12a-7f08-4356-aaac-0df12885b902" />
+  <Project Path="正则表达式/正则表达式.csproj" Id="983690fe-28b3-4e9b-80e6-8e44735c93d6" />
+  <Project Path="浅拷贝和深拷贝/浅拷贝和深拷贝.csproj" Id="b129073a-2f79-4742-aef5-7998a44f79ce" />
+  <Project Path="深拷贝练习/深拷贝练习.csproj" Id="0f30d29f-a9a5-4b62-ae68-884642995d14" />
+  <Project Path="银行账户管理器/银行账户管理器.csproj" Id="3e815344-d172-4da1-b7d9-b81fffc1ea6a" />
+</Solution>

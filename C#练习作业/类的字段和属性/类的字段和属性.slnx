@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/解决方案项/">
+    <File Path="ConsoleApp3/Equipment同学写的.cs" />
+    <File Path="ConsoleApp3/Program同学写的.cs" />
+  </Folder>
+  <Project Path="RPG 游戏装备强化系统/RPG 游戏装备强化系统.csproj" Id="d4482c5a-3cde-401f-966c-7ba58d829fdc" />
+  <Project Path="字段属性作业/字段属性作业.csproj" Id="c5ee3b9a-b7d9-4b1e-8f16-1efa8682b24e" />
+  <Project Path="类的字段和属性/类的字段和属性.csproj" Id="7926b3c2-a1fc-4266-9992-33bee505aa5d" />
+  <Project Path="超市商品管理/超市商品管理.csproj" Id="62b87544-6b50-4779-bcd7-5e898d1a8a6e" />
+</Solution>
